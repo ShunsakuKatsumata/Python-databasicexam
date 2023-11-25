@@ -1,1 +1,1 @@
-# Python-databasicexam
+Pythonエンジニア認定データ分析試験の学習で使用。2023/09/09に受験。
